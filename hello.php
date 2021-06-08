@@ -6,3 +6,4 @@ if(isset($_POST["upload"]) ){
    
 }
 ?>
+pull cho nay nef
